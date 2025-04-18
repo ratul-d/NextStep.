@@ -37,7 +37,7 @@ Since NextStep is fully hosted, you can dive right in without any local setup:
 
 - **Frontend:** HTML, Tailwind CSS, JavaScript  
 - **Backend:** Flask  
-- **Hosting & Deployment:** Vercel (Frontend), Render (Backend)
+- **Hosting & Deployment:** Render
 
 
 
