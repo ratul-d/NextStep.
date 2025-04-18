@@ -56,3 +56,7 @@ Since NextStep is fully hosted, you can dive right in without any local setup:
 
 ---
 
+![NextStep (1)](https://github.com/user-attachments/assets/7bd888a7-1659-466e-9432-e34d28c5c64d)
+
+![NextStep (2)](https://github.com/user-attachments/assets/fda5f4ab-ccce-403d-aeb4-461ede4d906c)
+
