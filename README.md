@@ -1,6 +1,6 @@
 # NextStep.
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://nextstep-teal.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://nextstep-app.onrender.com)
 
 NextStep is a career-path planning web application that helps users discover suitable roles based on their existing skills or by directly specifying a desired role. Through interactive flowcharts and detailed overviews, NextStep provides clear, step-by-step roadmaps to guide you toward achieving your career goals.
 
@@ -26,7 +26,7 @@ NextStep is a career-path planning web application that helps users discover sui
 
 Since NextStep is fully hosted, you can dive right in without any local setup:
 
-1. Visit the live site: [NextStep.](https://nextstep-teal.vercel.app)
+1. Visit the live site: [NextStep.](https://nextstep-app.onrender.com)
 2. Add your skills or type a desired role in the input box.
 3. Explore suggested roles, click into a roadmap, and interact with the flowchart nodes for a deep dive.
 
